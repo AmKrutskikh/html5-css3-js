@@ -24,8 +24,8 @@
 
 .rectangle {
   height: 50px;
-  width: 100px;
-  border: 50px solid transparent;
+  width: 50px;
+  border: 25px solid transparent;
   border-top-color: brown;
   margin: 50px;
 }
