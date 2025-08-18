@@ -1,4 +1,5 @@
 .header {
+  position: fixed;
   background-color: darkturquoise;
   height: 40px;
 }
