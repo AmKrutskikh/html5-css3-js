@@ -13,3 +13,9 @@
   flex-basis: 300px;
   flex-grow: 1;
 }
+
+.articles-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
