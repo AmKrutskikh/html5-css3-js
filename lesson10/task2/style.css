@@ -4,6 +4,7 @@
   height: 100px;
   flex-direction: row;
   width: 100px;
+  flex-grow: 1;
 }
 
 .container {
