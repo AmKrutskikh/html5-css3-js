@@ -2,34 +2,32 @@ html {
   font-family: "Roboto", sans-serif;
   font-size: 18px;
 }
-
-.section {
+section {
   margin: 32px;
 }
 
 h1 {
-  font-weight: 900;
   word-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
+  font-weight: bold;
 }
 
 p {
   line-height: 28px;
 }
 
-b {
-  font-weight: 900;
+.technology {
   letter-spacing: 3px;
   font-size: 24px;
-  opacity: 0.8;
+  opacity: 80%;
   text-decoration: underline;
+}
+
+.translation {
+  color: grey;
 }
 
 a {
   text-decoration: none;
-}
-
-em {
-  color: gray;
 }
