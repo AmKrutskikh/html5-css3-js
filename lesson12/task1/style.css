@@ -1,33 +1,37 @@
-html {
+* {
+  box-sizing: border-box;
+}
+
+body {
   font-family: "Roboto", sans-serif;
   font-size: 18px;
 }
-section {
-  margin: 32px;
-}
 
-h1 {
-  word-spacing: 20px;
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: bold;
+.container {
+  margin: 32px;
 }
 
 p {
   line-height: 28px;
 }
 
+a {
+  text-decoration: none;
+}
+
+.header {
+  text-transform: uppercase;
+  word-spacing: 20px;
+  text-align: center;
+}
+
 .technology {
   letter-spacing: 3px;
-  font-size: 24px;
-  opacity: 80%;
   text-decoration: underline;
+  font-size: 24px;
+  opacity: 0.8;
 }
 
 .translation {
   color: grey;
-}
-
-a {
-  text-decoration: none;
 }
